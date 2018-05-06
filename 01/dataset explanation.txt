@@ -1,0 +1,6 @@
+The dataset captures 40 random cases of suicide victims and lists four attributes regarding each case:
+
+1- Income: a continous variable
+2- Age: a continous variable
+3- Gender: a descrete variable with two levels (Male, and Female)
+4- Race: a desvcrete variable with 5 levels (White, Asian, Native, Black, and Hispanic)
